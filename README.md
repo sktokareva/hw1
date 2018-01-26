@@ -36,8 +36,14 @@ alt="фото профиля" width="200" height="150" border="10" />
 + Менеджмент выставочных преоктов
 + Журналистстика
 
+Любимые художники Поль Гоген и Анри Матисс
 
-![ff](https://psv4.userapi.com/c834600/u67115385/docs/d15/417ddabc7fe5/280836.png?extra=958QfoYL_SHTZNPVFXJR-Sh6G8zV13IMVwgE_sRDeTz-ebA6MUKyvkcY7NQaAhetxHwepK97bXBGOcLoYaEMlN_QQpNWTC_U6pJOA3FuUhsl1e-C24C_VMApM-u8ptck84n6KyLvCg.png)
+! [Поль Гоген "Кто мы? Откуда? Куда мы идем?](https://pp.userapi.com/c840722/v840722505/4b8e1/hp_GT_BbhHY.jpg "Поль Гоген "Кто мы? Откуда? Куда мы идем?")
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=HQ1ezFDjllA
+" target="_blank"><img src="http://img.youtube.com/vi/HQ1ezFDjllA/0.jpg" 
+alt="Анри Матисс Лекция" width="240" height="180" border="10" /></a>
+
 
 
 TABLE
