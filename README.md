@@ -2,7 +2,8 @@ Profile
 ===
 ## Софья Токарева
 ***
-22.02.1997 ![фото профиля](https://pp.userapi.com/c605926/v605926620/1f46/qI9TeLfHyeU.jpg | width=70)
+22.02.1997 <img src="https://pp.userapi.com/c605926/v605926620/1f46/qI9TeLfHyeU.jpg" 
+alt="фото профиля" width="240" height="180" border="10" />
 
 Контакты:
 
