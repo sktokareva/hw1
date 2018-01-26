@@ -38,7 +38,7 @@ alt="фото профиля" width="200" height="150" border="10" />
 
 Любимые художники Поль Гоген и Анри Матисс
 
-! [Поль Гоген "Кто мы? Откуда? Куда мы идем?](https://pp.userapi.com/c840722/v840722505/4b8e1/hp_GT_BbhHY.jpg "Поль Гоген "Кто мы? Откуда? Куда мы идем?")
+![Поль Гоген "Кто мы? Откуда? Куда мы идем?] (https://pp.userapi.com/c840722/v840722505/4b8e1/hp_GT_BbhHY.jpg "Поль Гоген "Кто мы? Откуда? Куда мы идем?")
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=HQ1ezFDjllA
 " target="_blank"><img src="http://img.youtube.com/vi/HQ1ezFDjllA/0.jpg" 
